@@ -6,7 +6,7 @@ import project1Img from "../assets/project1.jpg";
 import project2Img from "../assets/project2.jpg";
 
 export const company = {
-  name: "TT Holding",
+  name: "TT Holdings",
   slogan: "Unveil the beauty of Africa",
   founded: 2016,
   address: "51 Haut Congo, Gombe Commune, Kinshasa, RDC",
